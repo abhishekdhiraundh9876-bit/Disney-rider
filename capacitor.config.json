@@ -1,0 +1,8 @@
+{
+  "appId": "com.disneyrider.portfolio",
+  "appName": "Disney Rider",
+  "webDir": "out",
+  "server": {
+    "androidScheme": "https"
+  }
+}
