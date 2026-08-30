@@ -1,0 +1,534 @@
+{
+  "BRAND_INFO": {
+    "name": "DISNEY RIDER",
+    "creatorName": "Ashik",
+    "tagline": "TURNING MOMENTS INTO STORIES.",
+    "subtext": "Photography × Cinematography × Video Editing",
+    "bio": "I don't just capture what happens. I capture how it feels.",
+    "instagram": "@disney_rider_656",
+    "instagramUrl": "https://instagram.com/disney_rider_656",
+    "email": "ay3643815@gmail.com",
+    "whatsapp": "https://wa.me/916201397978?text=Hi%20Ashik",
+    "whatsappNumber": "+91 62013 97978",
+    "location": "Rajgir, Bihar & Available Worldwide",
+    "profileImage": "/uploads/1788099404539-aBHI_IMAGE__1_.jpg"
+  },
+  "SELECTED_WORKS": [
+    {
+      "id": "work-01",
+      "title": "THE VELVET HOUR",
+      "category": "CINEMATOGRAPHY & FASHION",
+      "year": "2026",
+      "location": "RAJGIR, BIHAR",
+      "description": "A luxury haute couture editorial film exploring light shadows, texture and high-fashion movement.",
+      "coverImage": "/images/FullSizeRender.jpg",
+      "hoverVideo": "/videos/hero-showreel.mp4",
+      "client": "VOGUE EDITORIAL",
+      "role": "DIRECTOR & CINEMATOGRAPHER",
+      "videoUrl": "/videos/hero-showreel.mp4",
+      "galleryImages": [
+        "/images/FullSizeRender-1.jpg",
+        "/images/FullSizeRender-2.jpg",
+        "/images/FullSizeRender-3.jpg"
+      ]
+    },
+    {
+      "id": "work-02",
+      "title": "CELESTIAL VOWS",
+      "category": "LUXURY WEDDING FILM",
+      "year": "2026",
+      "location": "RAJGIR, BIHAR",
+      "description": "An intimate royal wedding film captured across 3 days at Lake Palace, capturing emotion, heritage and cinematic storytelling.",
+      "coverImage": "/images/FullSizeRender-4.jpg",
+      "hoverVideo": "/videos/hero-showreel.mp4",
+      "client": "PRIVATE CLIENT",
+      "role": "LEAD CINEMATOGRAPHER & EDITOR",
+      "videoUrl": "/videos/hero-showreel.mp4",
+      "galleryImages": [
+        "/images/FullSizeRender-5.jpg",
+        "/images/FullSizeRender-6.jpg",
+        "/images/FullSizeRender-7.jpg"
+      ]
+    },
+    {
+      "id": "work-03",
+      "title": "NOCTURNAL DRIFT",
+      "category": "COMMERCIAL & AUTOMOTIVE",
+      "year": "2025",
+      "location": "RAJGIR, BIHAR",
+      "description": "High-octane neon night cinematography showcasing precision automotive engineering and urban speed ramping.",
+      "coverImage": "/images/FullSizeRender-8.jpg",
+      "hoverVideo": "/videos/hero-showreel.mp4",
+      "client": "EXOTIC DRIVE",
+      "role": "DIRECTOR OF PHOTOGRAPHY",
+      "videoUrl": "/videos/hero-showreel.mp4",
+      "galleryImages": [
+        "/images/FullSizeRender-9.jpg",
+        "/images/FullSizeRender-10.jpg",
+        "/images/FullSizeRender-11.jpg"
+      ]
+    },
+    {
+      "id": "work-04",
+      "title": "ECHOES OF SILENCE",
+      "category": "FINE ART PORTRAITURE",
+      "year": "2025",
+      "location": "RAJGIR, BIHAR",
+      "description": "Deep moody portraits set against volcanic black sands and icy fjords. Minimalist composition meets visceral human emotion.",
+      "coverImage": "/images/FullSizeRender-12.jpg",
+      "hoverVideo": "/videos/hero-showreel.mp4",
+      "client": "SOLO EXHIBITION",
+      "role": "FINE ART PHOTOGRAPHER",
+      "videoUrl": "/videos/hero-showreel.mp4",
+      "galleryImages": [
+        "/images/FullSizeRender-13.jpg",
+        "/images/FullSizeRender-14.jpg",
+        "/images/FullSizeRender-15.jpg"
+      ]
+    }
+  ],
+  "PHOTOGRAPHY_ITEMS": [
+    {
+      "id": "p-00",
+      "title": "Disney Rider — Creator Portrait",
+      "category": "PORTRAITS",
+      "image": "/images/disney-rider-portrait.jpg",
+      "aspect": "portrait",
+      "year": "2026",
+      "location": "RAJGIR, BIHAR",
+      "description": "Official portrait of Disney Rider.",
+      "exif": {
+        "camera": "Canon R5",
+        "lens": "85mm f/1.2 L",
+        "focalLength": "85mm",
+        "iso": "100"
+      }
+    },
+    {
+      "id": "p-01",
+      "title": "Sombra y Luz",
+      "category": "PORTRAITS",
+      "image": "/images/FullSizeRender-16.jpg",
+      "aspect": "portrait",
+      "year": "2026",
+      "location": "RAJGIR, BIHAR",
+      "description": "High contrast portrait emphasizing shadow contours.",
+      "exif": {
+        "camera": "Leica SL2",
+        "lens": "50mm f/0.95",
+        "focalLength": "50mm",
+        "iso": "100"
+      }
+    },
+    {
+      "id": "p-02",
+      "title": "Visual Solitude",
+      "category": "PORTRAITS",
+      "image": "/images/FullSizeRender-17.jpg",
+      "aspect": "tall",
+      "year": "2026",
+      "location": "RAJGIR, BIHAR",
+      "description": "Editorial portrait capture with ambient low lighting.",
+      "exif": {
+        "camera": "Sony A7R V",
+        "lens": "85mm f/1.2 GM",
+        "focalLength": "85mm",
+        "iso": "160"
+      }
+    },
+    {
+      "id": "p-03",
+      "title": "Monochrome Gaze",
+      "category": "PORTRAITS",
+      "image": "/images/FullSizeRender-18.jpg",
+      "aspect": "portrait",
+      "year": "2025",
+      "location": "RAJGIR, BIHAR",
+      "description": "Raw black & white portraiture focusing on gaze depth.",
+      "exif": {
+        "camera": "Canon R3",
+        "lens": "50mm f/1.2 L",
+        "focalLength": "50mm",
+        "iso": "200"
+      }
+    },
+    {
+      "id": "p-03b",
+      "title": "Natural Light Study",
+      "category": "PORTRAITS",
+      "image": "/images/FullSizeRender-19.jpg",
+      "aspect": "tall",
+      "year": "2026",
+      "location": "RAJGIR, BIHAR",
+      "description": "Soft window light portrait with golden reflections.",
+      "exif": {
+        "camera": "Sony FX3",
+        "lens": "50mm f/1.2 GM",
+        "focalLength": "50mm",
+        "iso": "100"
+      }
+    },
+    {
+      "id": "p-04",
+      "title": "Avant-Garde Drape",
+      "category": "FASHION",
+      "image": "/images/FullSizeRender-28.jpg",
+      "aspect": "portrait",
+      "year": "2026",
+      "location": "RAJGIR, BIHAR",
+      "description": "Couture silhouette photography for autumn editorial.",
+      "exif": {
+        "camera": "Hasselblad X2D",
+        "lens": "90mm f/2.5",
+        "focalLength": "90mm",
+        "iso": "64"
+      }
+    },
+    {
+      "id": "p-05",
+      "title": "Crimson Velvet",
+      "category": "FASHION",
+      "image": "/images/FullSizeRender-29.jpg",
+      "aspect": "square",
+      "year": "2025",
+      "location": "RAJGIR, BIHAR",
+      "description": "Vibrant editorial composition in studio environment.",
+      "exif": {
+        "camera": "Sony A7R V",
+        "lens": "50mm f/1.2",
+        "focalLength": "50mm",
+        "iso": "100"
+      }
+    },
+    {
+      "id": "p-05b",
+      "title": "Modern Couture",
+      "category": "FASHION",
+      "image": "/images/FullSizeRender-30.jpg",
+      "aspect": "portrait",
+      "year": "2026",
+      "location": "RAJGIR, BIHAR",
+      "description": "Minimalist high-fashion campaign shot.",
+      "exif": {
+        "camera": "Canon R5",
+        "lens": "85mm f/1.2 L",
+        "focalLength": "85mm",
+        "iso": "100"
+      }
+    },
+    {
+      "id": "p-05c",
+      "title": "Runway Motion",
+      "category": "FASHION",
+      "image": "/images/FullSizeRender-31.jpg",
+      "aspect": "tall",
+      "year": "2026",
+      "location": "RAJGIR, BIHAR",
+      "description": "High-speed shutter runway action frame.",
+      "exif": {
+        "camera": "Sony A7 IV",
+        "lens": "70-200mm f/2.8",
+        "focalLength": "135mm",
+        "iso": "400"
+      }
+    },
+    {
+      "id": "p-06",
+      "title": "Palace Symphony",
+      "category": "WEDDINGS",
+      "image": "/images/FullSizeRender-24.jpg",
+      "aspect": "landscape",
+      "year": "2026",
+      "location": "RAJGIR, BIHAR",
+      "description": "A timeless royal heritage wedding shot.",
+      "exif": {
+        "camera": "Sony FX3",
+        "lens": "35mm f/1.4 GM",
+        "focalLength": "35mm",
+        "iso": "320"
+      }
+    },
+    {
+      "id": "p-07",
+      "title": "The Eternal Promise",
+      "category": "WEDDINGS",
+      "image": "/images/FullSizeRender-25.jpg",
+      "aspect": "portrait",
+      "year": "2025",
+      "location": "RAJGIR, BIHAR",
+      "description": "Unscripted emotional couple portraiture.",
+      "exif": {
+        "camera": "Canon R5",
+        "lens": "85mm f/1.2 L",
+        "focalLength": "85mm",
+        "iso": "100"
+      }
+    },
+    {
+      "id": "p-07b",
+      "title": "Heritage Courtyard",
+      "category": "WEDDINGS",
+      "image": "/images/FullSizeRender-26.jpg",
+      "aspect": "landscape",
+      "year": "2026",
+      "location": "RAJGIR, BIHAR",
+      "description": "Intricate architectural wedding framing.",
+      "exif": {
+        "camera": "Sony A7R V",
+        "lens": "24-70mm f/2.8",
+        "focalLength": "24mm",
+        "iso": "160"
+      }
+    },
+    {
+      "id": "p-08",
+      "title": "Ethereal Gala Night",
+      "category": "EVENTS",
+      "image": "/images/FullSizeRender-20.jpg",
+      "aspect": "landscape",
+      "year": "2026",
+      "location": "RAJGIR, BIHAR",
+      "description": "High profile luxury event coverage and stage lighting.",
+      "exif": {
+        "camera": "Sony A7S III",
+        "lens": "24-70mm f/2.8",
+        "focalLength": "24mm",
+        "iso": "1600"
+      }
+    },
+    {
+      "id": "p-09",
+      "title": "Starlight Concert",
+      "category": "EVENTS",
+      "image": "/images/FullSizeRender-21.jpg",
+      "aspect": "landscape",
+      "year": "2025",
+      "location": "RAJGIR, BIHAR",
+      "description": "Live performance energy captured in dynamic lighting.",
+      "exif": {
+        "camera": "Sony FX3",
+        "lens": "70-200mm f/2.8",
+        "focalLength": "135mm",
+        "iso": "2500"
+      }
+    },
+    {
+      "id": "p-09b",
+      "title": "Stage Energy",
+      "category": "EVENTS",
+      "image": "/images/FullSizeRender-22.jpg",
+      "aspect": "portrait",
+      "year": "2026",
+      "location": "RAJGIR, BIHAR",
+      "description": "Pyrotechnic stage backlight moment.",
+      "exif": {
+        "camera": "Sony A7S III",
+        "lens": "50mm f/1.2",
+        "focalLength": "50mm",
+        "iso": "3200"
+      }
+    },
+    {
+      "id": "p-10",
+      "title": "Misty Fjords",
+      "category": "TRAVEL",
+      "image": "/images/FullSizeRender-32.jpg",
+      "aspect": "landscape",
+      "year": "2025",
+      "location": "RAJGIR, BIHAR",
+      "description": "Atmospheric landscape photography in Northern Fjords.",
+      "exif": {
+        "camera": "Leica Q2",
+        "lens": "28mm f/1.7",
+        "focalLength": "28mm",
+        "iso": "100"
+      }
+    },
+    {
+      "id": "p-10b",
+      "title": "High Desert Horizon",
+      "category": "TRAVEL",
+      "image": "/images/FullSizeRender-33.jpg",
+      "aspect": "landscape",
+      "year": "2026",
+      "location": "RAJGIR, BIHAR",
+      "description": "Cinematic landscape scale at 14,000 feet altitude.",
+      "exif": {
+        "camera": "Sony A7R V",
+        "lens": "16-35mm f/2.8",
+        "focalLength": "16mm",
+        "iso": "100"
+      }
+    },
+    {
+      "id": "p-11",
+      "title": "Neon Tokyo Pulse",
+      "category": "STREET",
+      "image": "/images/FullSizeRender-35.jpg",
+      "aspect": "portrait",
+      "year": "2025",
+      "location": "RAJGIR, BIHAR",
+      "description": "Candid rainy night street photography.",
+      "exif": {
+        "camera": "Ricoh GR III",
+        "lens": "18.3mm f/2.8",
+        "focalLength": "28mm",
+        "iso": "800"
+      }
+    },
+    {
+      "id": "p-11b",
+      "title": "Urban Shadows",
+      "category": "STREET",
+      "image": "/images/FullSizeRender-36.jpg",
+      "aspect": "tall",
+      "year": "2026",
+      "location": "RAJGIR, BIHAR",
+      "description": "Geometry of city shadows in midday sun.",
+      "exif": {
+        "camera": "Leica M11",
+        "lens": "35mm f/1.4",
+        "focalLength": "35mm",
+        "iso": "100"
+      }
+    },
+    {
+      "id": "p-12",
+      "title": "Coastal Quietude",
+      "category": "LIFESTYLE",
+      "image": "/images/FullSizeRender-38.jpg",
+      "aspect": "landscape",
+      "year": "2026",
+      "location": "RAJGIR, BIHAR",
+      "description": "Warm organic editorial lifestyle imagery.",
+      "exif": {
+        "camera": "Sony A7 IV",
+        "lens": "35mm f/1.4 GM",
+        "focalLength": "35mm",
+        "iso": "200"
+      }
+    },
+    {
+      "id": "p-12b",
+      "title": "Golden Hour Retreat",
+      "category": "LIFESTYLE",
+      "image": "/images/FullSizeRender-39.jpg",
+      "aspect": "portrait",
+      "year": "2026",
+      "location": "RAJGIR, BIHAR",
+      "description": "Relaxed golden sunset backlighting.",
+      "exif": {
+        "camera": "Canon R5",
+        "lens": "50mm f/1.2 L",
+        "focalLength": "50mm",
+        "iso": "100"
+      }
+    },
+    {
+      "id": "p-13",
+      "title": "Chrono Precision",
+      "category": "PRODUCT",
+      "image": "/images/FullSizeRender-41.jpg",
+      "aspect": "square",
+      "year": "2026",
+      "location": "RAJGIR, BIHAR",
+      "description": "Luxury horology dark field commercial photography.",
+      "exif": {
+        "camera": "Canon R5",
+        "lens": "100mm Macro f/2.8",
+        "focalLength": "100mm",
+        "iso": "100"
+      }
+    },
+    {
+      "id": "p-13b",
+      "title": "Fragrance Sculpture",
+      "category": "PRODUCT",
+      "image": "/images/FullSizeRender-42.jpg",
+      "aspect": "portrait",
+      "year": "2026",
+      "location": "RAJGIR, BIHAR",
+      "description": "Minimalist luxury perfume glass reflections.",
+      "exif": {
+        "camera": "Hasselblad X2D",
+        "lens": "120mm Macro",
+        "focalLength": "120mm",
+        "iso": "64"
+      }
+    }
+  ],
+  "FILM_ITEMS": [
+    {
+      "id": "film-01",
+      "title": "ROYAL HEIRLOOMS",
+      "category": "WEDDING FILM",
+      "duration": "04:12",
+      "year": "2026",
+      "thumbnail": "/images/FullSizeRender-4.jpg",
+      "videoUrl": "/videos/hero-showreel.mp4",
+      "description": "A cinematic wedding masterpiece shot at Lake Palace, Udaipur.",
+      "director": "Disney Rider",
+      "editor": "Disney Rider"
+    },
+    {
+      "id": "film-02",
+      "title": "THE NIGHT ALCHEMY",
+      "category": "BRAND FILM",
+      "duration": "02:45",
+      "year": "2026",
+      "thumbnail": "/images/FullSizeRender-8.jpg",
+      "videoUrl": "/videos/hero-showreel.mp4",
+      "description": "High energy commercial film for an international luxury brand.",
+      "director": "Disney Rider",
+      "editor": "Disney Rider"
+    },
+    {
+      "id": "film-03",
+      "title": "SOLITUDE IN FLORENCE",
+      "category": "TRAVEL FILM",
+      "duration": "03:10",
+      "year": "2025",
+      "thumbnail": "/images/FullSizeRender-12.jpg",
+      "videoUrl": "/videos/hero-showreel.mp4",
+      "description": "A poetic visual journey through Tuscan architecture and morning fog.",
+      "director": "Disney Rider",
+      "editor": "Disney Rider"
+    },
+    {
+      "id": "film-04",
+      "title": "SYNTH & SILK",
+      "category": "MUSIC VIDEO",
+      "duration": "03:50",
+      "year": "2025",
+      "thumbnail": "/images/FullSizeRender-20.jpg",
+      "videoUrl": "/videos/hero-showreel.mp4",
+      "description": "Moody indie electronic track music video with stylized anamorphic lens flare.",
+      "director": "Disney Rider",
+      "editor": "Disney Rider"
+    },
+    {
+      "id": "film-05",
+      "title": "THE GRAND CELEBRATION",
+      "category": "EVENT FILM",
+      "duration": "01:55",
+      "year": "2026",
+      "thumbnail": "/images/FullSizeRender-16.jpg",
+      "videoUrl": "/videos/hero-showreel.mp4",
+      "description": "High prestige corporate gala film featuring live performances and pyrotechnics.",
+      "director": "Disney Rider",
+      "editor": "Disney Rider"
+    },
+    {
+      "id": "film-06",
+      "title": "URBAN VELOCITY REEL",
+      "category": "REEL",
+      "duration": "00:45",
+      "year": "2026",
+      "thumbnail": "/images/FullSizeRender-28.jpg",
+      "videoUrl": "/videos/hero-showreel.mp4",
+      "description": "Ultra-fast rhythmic 9:16 vertical short-form reel edit.",
+      "director": "Disney Rider",
+      "editor": "Disney Rider"
+    }
+  ]
+}
